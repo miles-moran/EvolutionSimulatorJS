@@ -1,0 +1,22 @@
+.locale {
+    width: 3em;
+    height: 3em;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.row {
+    height: 3.1em;
+}
+
+#frame {
+    margin: 1em; 
+}
+
+.star {
+    background-color: black;
+}
+
+.life {
+    background-color: green;
+}
