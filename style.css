@@ -20,3 +20,22 @@
 .life {
     background-color: green;
 }
+
+.test {
+    background-color: purple;
+}
+
+#data {
+    height: 10em;
+    border: 1px solid black;
+    width: 10em;
+    font-size: 2em;
+}
+
+.predator {
+    background-color: purple;
+}
+
+.apex {
+    background-color: pink;
+}
